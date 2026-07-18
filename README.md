@@ -1,4 +1,4 @@
-#  About Me:
+#  About Me
 **Cybersecurity Engineer | Incident Response & Detection Engineering | AI-Assisted Security Operations**. <br> <br> **Current Role:** Senior Engineer – Global Cyber Defense Operations<br> <br> 
 **Experience:** 3+ years in Enterprise Cybersecurity<br> **Domain:** SOC, Incident Response, Threat Hunting, Detection Engineering,AI-Assisted Security Operations<br> **Platforms:** CrowdStrike Falcon, Microsoft Defender XDR, Splunk, Cortex XSOAR, Phantom, Wiz, Azure, AWS<br> **Skills:** Python, PowerShell, KQL, SPL, CQL, MITRE ATT&CK, SOAR automation, Detection Engineering<br>
 
